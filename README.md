@@ -8,3 +8,5 @@
 * @param \<T\> the type of the object
 * @return the copied object
 
+
+./gradlew.bat run
